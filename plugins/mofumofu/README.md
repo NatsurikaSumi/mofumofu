@@ -15,6 +15,10 @@
 - `/mofumofu:digest` — AI 总结当前热门话题趋势(今日在聊什么)
 - `/mofumofu:user-topics <用户名>` — 某人发过的主题列表
 - `/mofumofu:random` — 从热门里随机抽一帖
+- `/mofumofu:reply-draft <主题ID>` — AI 帮拟回复草稿(只拟不发,自己手动发)
+- `/mofumofu:fun` — 从热门挑最有梗/下饭/治愈的帖
+- `/mofumofu:member-card <用户名>` — 用户全貌卡片(资料 + 发过的帖)
+- `/mofumofu:hot-image <主题ID>` — 抽帖正文里的图片链接
 
 ## 说明
 
