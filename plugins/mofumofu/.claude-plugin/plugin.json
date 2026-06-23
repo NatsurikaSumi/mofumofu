@@ -1,7 +1,7 @@
 {
   "name": "mofumofu",
   "description": "もふもふ — 在 Claude Code 里悠闲撸一把 V2EX:热门主题、最新主题、按节点浏览、看单帖与回复。纯 V2EX 公开 API,无需 token,任何人开箱即用、换电脑装上即用。",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "author": { "name": "NatsurikaSumi" },
   "keywords": ["v2ex", "mofumofu", "もふもふ", "forum", "news"],
   "license": "MIT"
