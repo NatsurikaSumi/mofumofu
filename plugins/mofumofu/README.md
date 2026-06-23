@@ -11,6 +11,10 @@
 - `/mofumofu:search <关键词>` — 全站搜索(走 sov2ex 第三方搜索引擎)
 - `/mofumofu:member <用户名>` — 用户主页(注册时间/简介/网站/社交)
 - `/mofumofu:node-info <节点名>` — 节点详情(介绍/帖子总数)
+- `/mofumofu:tldr <主题ID>` — AI 把长帖几百楼回复总结成「结论/争议/金楼」
+- `/mofumofu:digest` — AI 总结当前热门话题趋势(今日在聊什么)
+- `/mofumofu:user-topics <用户名>` — 某人发过的主题列表
+- `/mofumofu:random` — 从热门里随机抽一帖
 
 ## 说明
 
