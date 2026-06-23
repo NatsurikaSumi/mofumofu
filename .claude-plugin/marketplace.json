@@ -4,13 +4,13 @@
     "name": "NatsurikaSumi"
   },
   "description": "もふもふ — V2EX 治愈系刷帖插件市场,在 Claude Code 里悠闲撸一把 V2EX,纯公开 API 免 token,任何人开箱即用",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "plugins": [
     {
       "name": "mofumofu",
       "source": "./plugins/mofumofu",
       "description": "もふもふ — 在 Claude Code 里悠闲刷 V2EX:热门 / 最新 / 按节点 / 单帖与回复",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": { "name": "NatsurikaSumi" },
       "keywords": ["v2ex", "mofumofu", "もふもふ", "forum"],
       "license": "MIT"
