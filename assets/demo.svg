@@ -1,0 +1,33 @@
+<svg viewBox="0 0 720 452" xmlns="http://www.w3.org/2000/svg" font-family="'SF Mono','Menlo','Consolas',monospace">
+  <rect width="720" height="452" rx="14" fill="#1e1e2e"/>
+  <path d="M0 14 a14 14 0 0 1 14 -14 h692 a14 14 0 0 1 14 14 v24 h-720 z" fill="#181825"/>
+  <circle cx="26" cy="19" r="6" fill="#f38ba8"/>
+  <circle cx="48" cy="19" r="6" fill="#f9e2af"/>
+  <circle cx="70" cy="19" r="6" fill="#a6e3a1"/>
+  <text x="360" y="24" fill="#6c7086" font-size="13" text-anchor="middle">mofumofu — V2EX 摸鱼 · Claude Code</text>
+
+  <text x="26" y="74" font-size="15">
+    <tspan fill="#a6e3a1">❯ </tspan><tspan fill="#cdd6f4">/mofumofu:hot</tspan>
+  </text>
+
+  <text x="26" y="112" fill="#f5c2e7" font-size="15">🐰 V2EX 当前热门主题</text>
+
+  <g font-size="14">
+    <text x="26" y="146"><tspan fill="#cba6f7">1.</tspan> <tspan fill="#cdd6f4">突然想离婚了</tspan>            <tspan fill="#6c7086">生活 ·</tspan> <tspan fill="#f38ba8">359</tspan></text>
+    <text x="26" y="176"><tspan fill="#cba6f7">2.</tspan> <tspan fill="#cdd6f4">坐了朋友的电车,小油车已是上时代产物</tspan>  <tspan fill="#6c7086">汽车 ·</tspan> <tspan fill="#fab387">130</tspan></text>
+    <text x="26" y="206"><tspan fill="#cba6f7">3.</tspan> <tspan fill="#cdd6f4">想吃但吃到后大失所望的食物?</tspan>      <tspan fill="#6c7086">问与答 ·</tspan> <tspan fill="#fab387">128</tspan></text>
+    <text x="26" y="236"><tspan fill="#cba6f7">4.</tspan> <tspan fill="#cdd6f4">找女朋友会找有小团体的么</tspan>        <tspan fill="#6c7086">情感 ·</tspan> <tspan fill="#f9e2af">94</tspan></text>
+    <text x="26" y="266"><tspan fill="#cba6f7">5.</tspan> <tspan fill="#cdd6f4">消灭财富还得大 A,跌了一个多月</tspan>    <tspan fill="#6c7086">投资 ·</tspan> <tspan fill="#f9e2af">90</tspan></text>
+  </g>
+
+  <text x="26" y="306" fill="#a6adc8" font-size="13.5">今日 V 站「离婚 / 油车焦虑 / 大 A 套牢」三连,人间真实 😌</text>
+
+  <line x1="26" y1="334" x2="694" y2="334" stroke="#313244" stroke-width="1"/>
+
+  <text x="26" y="364" fill="#7f849c" font-size="12.5">还能这么玩:</text>
+  <g font-size="13">
+    <text x="26" y="392"><tspan fill="#a6e3a1">❯ </tspan><tspan fill="#89b4fa">/mofumofu:digest</tspan>   <tspan fill="#6c7086">30 秒看完今天 V 站在聊啥(AI 摘要)</tspan></text>
+    <text x="26" y="416"><tspan fill="#a6e3a1">❯ </tspan><tspan fill="#89b4fa">/mofumofu:tldr 1221864</tspan>   <tspan fill="#6c7086">几百楼浓缩成结论/争议/金楼</tspan></text>
+    <text x="26" y="440"><tspan fill="#a6e3a1">❯ </tspan><tspan fill="#89b4fa">/mofumofu:fun</tspan>   <tspan fill="#6c7086">专挑下饭好玩的帖 🍿</tspan></text>
+  </g>
+</svg>

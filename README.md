@@ -1,5 +1,13 @@
 # mofumofu · もふもふ — V2EX 治愈系刷帖 Claude Code 插件
 
+![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-plugin-D97757)
+![version](https://img.shields.io/badge/version-1.3.1-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+![V2EX](https://img.shields.io/badge/V2EX-public_API-2b2b2b)
+![no token](https://img.shields.io/badge/token-not_required-success)
+
+![demo](assets/demo.svg)
+
 在 Claude Code 里悠闲撸一把 [V2EX](https://www.v2ex.com):热门、最新、按节点、看单帖与回复。もふもふ 一下,忙里偷个闲。
 
 纯 V2EX 公开 API,**无需 token、任何人开箱即用、换电脑装上即用**。仅读不写,不碰你的账号。
