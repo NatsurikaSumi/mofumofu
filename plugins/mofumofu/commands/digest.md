@@ -17,3 +17,5 @@ allowed-tools: Bash(curl:*)
 4. 末尾轻松收尾,提示 `/mofumofu:tldr <主题ID>` 深扒某帖、`/mofumofu:hot` 看完整列表
 
 目标:30 秒了解今天 V 站热点。
+
+若热门数据拉取失败或为空(V2EX 偶尔抽风),友好提示稍后再试。
